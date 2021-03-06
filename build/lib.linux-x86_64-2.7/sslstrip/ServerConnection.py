@@ -16,8 +16,7 @@
 # USA
 #
 
-import logging, re, string, random, zlib, gzip
-from io import StringIO
+import logging, re, string, random, zlib, gzip, StringIO
 
 from twisted.web.http import HTTPClient
 from URLMonitor import URLMonitor

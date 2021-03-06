@@ -1,0 +1,182 @@
+2021-03-04 21:37:10,589 Resolving host: ocsp.pki.goog
+2021-03-04 21:37:10,590 Host not cached.
+2021-03-04 21:37:10,600 Resolved host successfully: ocsp.pki.goog -> 172.217.1.131
+2021-03-04 21:37:10,600 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:37:12,257 Resolving host: r3.o.lencr.org
+2021-03-04 21:37:12,257 Host not cached.
+2021-03-04 21:37:12,263 Resolved host successfully: r3.o.lencr.org -> 104.124.62.48
+2021-03-04 21:37:12,263 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,745 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,746 Host not cached.
+2021-03-04 21:41:01,747 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,748 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,763 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,763 Host not cached.
+2021-03-04 21:41:01,764 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,765 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,819 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,819 Host not cached.
+2021-03-04 21:41:01,821 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,821 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,839 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,839 Host not cached.
+2021-03-04 21:41:01,841 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,841 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,858 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,858 Host not cached.
+2021-03-04 21:41:01,860 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,860 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,877 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,877 Host not cached.
+2021-03-04 21:41:01,879 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,879 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:41:01,896 Resolving host: ocsp.digicert.com
+2021-03-04 21:41:01,897 Host not cached.
+2021-03-04 21:41:01,898 Resolved host successfully: ocsp.digicert.com -> 72.21.91.29
+2021-03-04 21:41:01,899 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:44:49,713 Resolving host: www.ethicalpentest.com
+2021-03-04 21:44:49,713 Host not cached.
+2021-03-04 21:44:49,720 Resolved host successfully: www.ethicalpentest.com -> 142.250.138.121
+2021-03-04 21:44:49,720 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:44:49,763 Resolving host: www.ethicalpentest.com
+2021-03-04 21:44:49,764 Host not cached.
+2021-03-04 21:44:49,764 Resolved host successfully: www.ethicalpentest.com -> 142.250.138.121
+2021-03-04 21:44:49,765 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:48:33,515 Resolving host: 110ashop.ddns.net
+2021-03-04 21:48:33,515 Host not cached.
+2021-03-04 21:48:33,520 Resolved host successfully: 110ashop.ddns.net -> 47.218.102.186
+2021-03-04 21:48:33,521 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:48:33,573 Resolving host: 110ashop.ddns.net
+2021-03-04 21:48:33,573 Host not cached.
+2021-03-04 21:48:33,575 Resolved host successfully: 110ashop.ddns.net -> 47.218.102.186
+2021-03-04 21:48:33,575 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]
+2021-03-04 21:50:41,694 Resolving host: ocsp.sectigo.com
+2021-03-04 21:50:41,694 Host not cached.
+2021-03-04 21:50:41,694 Resolved host successfully: ocsp.sectigo.com -> 151.139.128.14
+2021-03-04 21:50:41,695 Host resolution error: [Failure instance: Traceback: <class 'TypeError'>: argument should be integer or bytes-like object, not 'str'
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:155:deliverResults
+/usr/local/lib/python3.8/dist-packages/twisted/internet/_resolver.py:269:addressResolved
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:477:callback
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:580:_startRunCallbacks
+--- <exception caught here> ---
+/usr/local/lib/python3.8/dist-packages/twisted/internet/defer.py:662:_runCallbacks
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:91:handleHostResolvedSuccess
+/home/daniyal/sslstrip/sslstrip/ClientRequest.py:69:getPathFromUri
+]

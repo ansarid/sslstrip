@@ -16,8 +16,7 @@
 # USA
 #
 
-import logging, os, sys, random
-from urllib.parse import urlparse
+import urlparse, logging, os, sys, random
 
 from twisted.web.http import Request
 from twisted.web.http import HTTPChannel
